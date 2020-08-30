@@ -1,0 +1,9 @@
+payload:
+  # YouTube
+  - DOMAIN,youtubei.googleapis.com,Youtube
+  - DOMAIN-SUFFIX,youtube.com,Youtube
+  - DOMAIN-SUFFIX,googlevideo.com,Youtube
+  - DOMAIN-SUFFIX,youtube-nocookie.com,Youtube
+  - DOMAIN-SUFFIX,youtu.be,Youtube
+  # Youtube Music
+  - DOMAIN-SUFFIX,music.youtube.com,Youtube
