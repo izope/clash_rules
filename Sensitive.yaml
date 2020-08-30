@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-SUFFIX,epochtimes.com,Sensitive
+  - DOMAIN-SUFFIX,ntdtv.com,Sensitive
+  - DOMAIN-SUFFIX,pincong.rocks,Sensitive
+  - DOMAIN-SUFFIX,mohu.rocks,Sensitive
+  - DOMAIN-KEYWORD,dafahao,Sensitive
+  - DOMAIN-KEYWORD,zhengjian,Sensitive
+  - DOMAIN-KEYWORD,minghui,Sensitive
+  - DOMAIN-KEYWORD,dongtaiwang,Sensitive
+  - DOMAIN-KEYWORD,falundafa,Sensitive
+  - DOMAIN-KEYWORD,wujieliulan,Sensitive  
