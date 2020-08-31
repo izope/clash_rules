@@ -1,13 +1,12 @@
-payload:
-  # YouTube
-  - PROCESS-NAME,com.google.android.youtube
-  - PROCESS-NAME,com.google.android.youtube.tv
-  - DOMAIN,youtubei.googleapis.com,Youtube
-  - DOMAIN-SUFFIX,youtube.com,Youtube
-  - DOMAIN-SUFFIX,googlevideo.com,Youtube
-  - DOMAIN-SUFFIX,youtube-nocookie.com,Youtube
-  - DOMAIN-SUFFIX,youtu.be,Youtube
-  # Youtube Music
-  - PROCESS-NAME,com.google.android.apps.youtube.music
-  - PROCESS-NAME,com.google.android.youtube.tvmusic
-  - DOMAIN-SUFFIX,music.youtube.com,Youtube
+# YouTube
+- PROCESS-NAME,com.google.android.youtube
+- PROCESS-NAME,com.google.android.youtube.tv
+- DOMAIN,youtubei.googleapis.com,Youtube
+- DOMAIN-SUFFIX,youtube.com,Youtube
+- DOMAIN-SUFFIX,googlevideo.com,Youtube
+- DOMAIN-SUFFIX,youtube-nocookie.com,Youtube
+- DOMAIN-SUFFIX,youtu.be,Youtube
+# Youtube Music
+- PROCESS-NAME,com.google.android.apps.youtube.music
+- PROCESS-NAME,com.google.android.youtube.tvmusic
+- DOMAIN-SUFFIX,music.youtube.com,Youtube
