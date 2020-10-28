@@ -1,12 +1,8 @@
 # YouTube
-PROCESS-NAME,com.google.android.youtube
-PROCESS-NAME,com.google.android.youtube.tv
 DOMAIN,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtu.be
 # Youtube Music
-PROCESS-NAME,com.google.android.apps.youtube.music
-PROCESS-NAME,com.google.android.youtube.tvmusic
 DOMAIN-SUFFIX,music.youtube.com
